@@ -1,1 +1,48 @@
 /*  Hi! your going to write styles here in the next couple activities. */
+.header {
+    height: 250px;
+    max-height: 500px;
+}
+
+#pageTopic {
+    text-align: center;
+}
+
+/* Primary Color */
+.colorContainer {
+    display: inline-block;
+    margin: 15px;
+}
+
+.swatch {
+    height: 200px;
+    width: 170px;
+    border:1px solid black;
+}
+
+.hexCode {
+    padding: 15px;
+    text-align: center;
+    border: 1px solid black;
+    border-top: none;
+}
+
+/* Typography CSS */
+/* UI Elements */
+.button {
+    display: inline-block;
+    padding: 15px;
+    margin: 15px;
+    width: 150px;
+    text-align: center;
+    color: white;
+    outline: 1px solid red;
+}
+
+.primary {
+    background-color: blue;
+}
+
+.success {
+    background-color: green;
+}
