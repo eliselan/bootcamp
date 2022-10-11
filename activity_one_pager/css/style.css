@@ -1,0 +1,38 @@
+.navigationItems {
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 1px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  padding-right:40px;
+  background-color: pink;
+  text-align: center;
+}
+.leftSide {
+  width: 29%;
+  float: left;
+  height: 700px;
+}
+
+.name {
+  height: 250px;
+  background-color: rgb(189, 149, 74);
+  text-align: center;
+  padding-top: 40px;
+}
+
+.stats {
+  height: 389px;
+  background-color: rgb(191, 126, 126);
+  text-align: center;
+  padding-top: 20px;
+}
+
+.rightSide { 
+  width: 69%;
+  float: left;
+  height: 680px;
+  background-color: aqua;
+  padding: 10px
+}
