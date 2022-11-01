@@ -1,0 +1,57 @@
+.navbar {
+    background-image: url(../images/hero.png);
+    background-size: cover;
+    min-height: 75vh;
+    background-repeat: none;
+}
+
+#logo {
+    padding-left: 10px;
+    padding-top: 10px;
+    width: 150px;
+    height: 50px;
+}
+
+#hamburger {
+    width: 30px;
+    height: 30px;
+    padding: 20px;
+    padding-left:130px;
+}
+
+.topbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.topbar li {
+    display: inline-block;
+    list-style: none;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-right: 10px;
+    align-items: center;
+    padding-top: 10px;
+}
+
+
+.travel h2 {
+    color: white;
+    float: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: 40px;
+}
+
+.travel img {
+    display: flex;
+    float: center;
+    align-items: center;
+    justify-content: center;
+    padding-top: 150px;
+}
+
